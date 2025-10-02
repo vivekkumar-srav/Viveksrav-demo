@@ -1,4 +1,6 @@
 # Viveksrav-demo
 This is my first GitHub repository
 <br>
-Auther - Vivek Kumar-S.R.A.V
+Auther - Vivek Kumar
+<br>
+(Vivek-S.R.A.V)
